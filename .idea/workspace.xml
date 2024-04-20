@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f6195c2-49a2-455b-9629-12e66014c31b" name="Changes" comment="Figuras" />
+    <list default="true" id="5f6195c2-49a2-455b-9629-12e66014c31b" name="Changes" comment="hola">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +46,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -63,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1713577189759</updated>
-      <workItem from="1713577190777" duration="1133000" />
+      <workItem from="1713577190777" duration="2520000" />
     </task>
     <task id="LOCAL-00001" summary="Figuras">
       <option name="closed" value="true" />
@@ -81,7 +84,31 @@
       <option name="project" value="LOCAL" />
       <updated>1713578303821</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Figuras">
+      <option name="closed" value="true" />
+      <created>1713578426324</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713578426324</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Figuras">
+      <option name="closed" value="true" />
+      <created>1713578440510</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713578440510</updated>
+    </task>
+    <task id="LOCAL-00005" summary="hola">
+      <option name="closed" value="true" />
+      <created>1713578705084</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713578705084</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +139,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Figuras" />
-    <option name="LAST_COMMIT_MESSAGE" value="Figuras" />
+    <MESSAGE value="hola" />
+    <option name="LAST_COMMIT_MESSAGE" value="hola" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
